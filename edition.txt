@@ -1,1 +1,7 @@
-Hello, GitHub!
+first edition
+second edition
+third edition
+issue resolved
+hotfix team's solution
+New function added
+Team upgraded
